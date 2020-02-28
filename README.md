@@ -33,3 +33,7 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+
+Notes:
+Marker Icons from https://templatic.com/newsblog/100-free-templatic-map-icons/
